@@ -1,0 +1,6 @@
+{
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorSurroundingLines": 0,
+  "editor.renderWhitespace": "all"
+}
